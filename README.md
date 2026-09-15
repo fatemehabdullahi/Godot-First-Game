@@ -96,9 +96,7 @@ by **Brackeys**
 
 This project is intended as a learning project and my first hands-on experience with the Godot game engine.
 
-```md
 ![Gameplay Screenshot](screenshots/gameplay2.png)
-```
 
 Computer Engineering Student
 Iran University of Science and Technology
